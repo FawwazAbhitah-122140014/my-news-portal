@@ -9,7 +9,7 @@ export default function LoginPage() {
   return (
     <>
       <Head>
-        <title>Login | Bagas News</title>
+        <title>Login | Oke News</title>
         <meta name="description" content="Login to access Bagas News content" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
